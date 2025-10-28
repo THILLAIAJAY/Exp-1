@@ -1,6 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-# Name : M krishna kumaran 
-# Reg No : 212224110033
+# Name : L Thillai ajay
+# Reg No : 212224040354
 
 # AIM:
 To draw the UML diagram for ATM and Banking System
